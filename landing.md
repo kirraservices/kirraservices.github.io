@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Office Furniture
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Kirra Services are able to assist with all your Office Furniture needs.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
