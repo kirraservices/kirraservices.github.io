@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Our Services
 nav-menu: true
 ---
 
