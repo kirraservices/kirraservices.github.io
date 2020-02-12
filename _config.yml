@@ -1,6 +1,6 @@
 # site settings
-title: Kirra
-subtitle: Services
+title: Kirra Services
+subtitle: 
 email: info@kirraservices.com.au
 description: We specialise in IT Services, Hardware and Software Procurement, Recruitment and Office Furniture Needs...
 baseurl: "/kirraservices.github.io" # the subpath of your site, e.g. /blog
@@ -19,12 +19,12 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url: https://facebook_url/kirraservices
+facebook_url: https://www.facebook.com/kirraservices
 github_url:
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
-linkedin_url: https://linkedin_url/in/kirraservices
+linkedin_url: https://www.linkedin.com/in/kirraservices
 pinterest_url:
 slack_url:
 twitter_url: 
